@@ -1,0 +1,7 @@
+.fondo {
+  background-image: url('../assets/fondo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+}
